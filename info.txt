@@ -1,0 +1,6 @@
+plugins:
+
+Live Server
+auto save afterDelay
+vscode-icons
+htmlhint 
